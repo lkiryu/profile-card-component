@@ -1,0 +1,23 @@
+@media (max-width:1440px) {
+    .container{
+    background-position: -100% 250%, 200% -250%;
+}
+}
+
+@media (max-width:1440px) {
+    .container{
+    background-position: -1000% 250%, 1000% -250%;
+}
+}
+
+@media (max-width:768px) {
+    .container{
+    background-position: -550px -500px , 250px 500px;
+}
+}
+
+@media (max-width:425px) {
+    .container{
+    background-position: -650px -600px , 150px 400px;
+}
+}
